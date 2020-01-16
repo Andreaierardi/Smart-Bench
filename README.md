@@ -3,4 +3,4 @@ SmartBench project in which the atlete can monitor his physical condition and co
 
 
 ![UML] (/UML.pdf)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://github.com/Andreaierardi/Smart-Bench/blob/master/UML.pdf)
