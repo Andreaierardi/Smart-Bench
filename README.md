@@ -1,6 +1,11 @@
-# Relazione di progetto - Reti2 Sperimentazioni
+# Relazione di progetto - Reti2 Sperimentazioni ![logo](/img/logo.png)
 
-## Smart-Bench
+![main](/img/firstpage.png)
+
+# Smart-Bench
+
+
+## Introduction
 The aim of the project is to show the development and realization of a smart bench press that monitors the state, performance and health of the atlete during a session training with sensors.
 In particular, the SmartBench reads and elaborates the data that come from three different sensors:
 - gym weights: monitor variation of weights.
@@ -10,5 +15,9 @@ In particular, the SmartBench reads and elaborates the data that come from three
 
 SmartBench project in which the atlete can monitor his physical condition and collects data thanks to Mosquitto using MQTT protocol
 
-# Resume of the architecture
+## Resume of the architecture
 ![resume](/img/structure.JPG)
+
+
+## Class diagram
+![diagram](/img/diagram.png)
