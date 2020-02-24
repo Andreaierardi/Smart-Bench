@@ -15,7 +15,7 @@ In particular, the SmartBench reads and elaborates the data that come from three
 
 SmartBench project in which the atlete can monitor his physical condition and collects data thanks to Mosquitto using MQTT protocol
 
-## Resume of the architecture
+## Architecture
 ![resume](/img/structure.JPG)
 
 
