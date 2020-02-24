@@ -12,8 +12,12 @@ In particular, the SmartBench reads and elaborates the data that come from three
 - barbell: monitor repetition (barbell lifted up and down) and if the barbell is placed in the initial position. 
 - bracelet: monitor heartbeat and heart rate.
 
-
-SmartBench project in which the atlete can monitor his physical condition and collects data thanks to Mosquitto using MQTT protocol
+## Technologies
+The architecture used is message broker in this way it is ensured modularity. Also, it used MQTT protocol for communication between brokers and modules.
+There are two Mosquitto Broker: 
+- Cloud broker: guarantees communication between controller, client and database.
+- Local Beaglebone broker: guarantees communication between sensor and controller.
+The traffic is minimum because each device used the Publish/subscribe pattern since the IoT devices have low memory and computation.
 
 ## Architecture
 ![resume](/img/structure.JPG)
