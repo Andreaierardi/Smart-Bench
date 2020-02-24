@@ -1,4 +1,4 @@
-# Relazione di progetto - Reti2 Sperimentazioni ![logo](/img/logo.png)
+# Project Smart-Bench - Reti2 Università del Piemonte Orientale, Italy ![logo](/img/logo.png)
 
 ![main](/img/firstpage.png)
 
