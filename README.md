@@ -1,6 +1,6 @@
-# Smart-Bench Project 
-## Reti2 Università del Piemonte Orientale, Italy ![logo](/img/logo.png)
+<h1 align="center"> Smart-Bench Project  </h1>
 
+## Reti2 Università del Piemonte Orientale, Italy ![logo](/img/logo.png
 ![main](/img/firstpage.png)
 
 # Smart-Bench
