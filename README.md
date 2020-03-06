@@ -1,8 +1,8 @@
 <h1 align="center"> Smart-Bench Project  </h1>
 
-## Reti2 Università del Piemonte Orientale, Italy ![logo](/img/logo.png)![main](/img/firstpage.png)
-
-# Smart-Bench
+## Reti2 Università del Piemonte Orientale, Italy ![logo](/img/logo.png)
+![main](/img/firstpage.png)
+<h1 align="center">  Smart-Bench   </h1>
 
 
 ## Introduction
