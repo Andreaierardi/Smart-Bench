@@ -1,3 +1,2 @@
-SmartBench/client/doc/js/* linguist-documentation=false
-SmartBench/conf/doc/js/* linguist-documentation=false
-SmartBench/client/js/* linguist-documentation=false
+*.js linguist-detectable=false
+SmartBench/client/js/* linguist-documentation=true
