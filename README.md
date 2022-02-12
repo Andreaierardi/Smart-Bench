@@ -6,6 +6,8 @@
 
 
 ## Introduction
+![main](/img/atleta.png)
+
 The aim of the project is to show the development and realization of a smart bench press that monitors the state, performance and health of the atlete during a session training with sensors.
 In particular, the SmartBench reads and elaborates the data that come from three different sensors:
 - gym weights: monitor variation of weights.
